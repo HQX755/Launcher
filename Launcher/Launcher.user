@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>http://sls.tera-europe.de:4566/servers/list.de "{"master_account_name":"TB5MFAIQO5","game_account_name":"TERA","user_permission":0,"ticket":"natzW37H-wof-fFdtypY5DTkgCRRMi6uWTjdRoA7G6G-cddR36","result-message":"OK","access_level":0,"result-code":200,"account_bits":"0x00000000","chars_per_server":[{"char_count":"2","id":"11"},{"char_count":"2","id":"13"}],"last_connected_server_id":13}"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
